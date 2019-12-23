@@ -1,0 +1,16 @@
+"mutation"
+{
+	"base"		"versus"
+	"maxplayers"	"8"
+	"playercontrolledzombies"	"1"
+
+	"DisplayTitle"	"Mutation Title"
+	"Description"	"Mutation Description"
+	"Image"		"maps/any"
+	"Author"	"Author"
+
+	convar
+	{
+		convar value
+	}
+}	

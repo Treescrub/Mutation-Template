@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	addonSteamAppID "550"
+	addontitle "Title"
+	addonversion "1.0"
+	addonauthor "Author"
+	addonDescription "Description"
+}
